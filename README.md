@@ -1,7 +1,5 @@
 Hi, I'm Mark,
-
 Thanondrak Arunsangsirinak (ธนนรักษ์ อรุณแสงสิรินัก)
-
 Zhishang Chen (陈至上)
 
 
