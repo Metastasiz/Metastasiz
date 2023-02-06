@@ -28,7 +28,7 @@ https://github.com/Metastasiz/Arduino_PID-1axis-ball-balancing
 
 2022-Summer
 
-![ezgif com-video-to-gif-3](https://user-images.githubusercontent.com/75691419/216468893-f8bd7415-6968-40da-9350-1f8f9142f162.gif)
+![ezgif com-gif-maker-3](https://user-images.githubusercontent.com/75691419/216623542-676ca7ca-411c-4080-8ea6-890dc1981aac.gif)
 
 https://github.com/Metastasiz/Java_GameOfLife
 
