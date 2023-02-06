@@ -8,7 +8,7 @@ Please contact me on Discord: Metastasiz#5310 or markjc3rd@gmail.com
 
 I'm interested in Robotics and Machine Learning, currently I have made only some simple AIs only.
 
-AI models and  including:
+AI models and  some related stuff:
 - Knn
 - Perceptron
 - K-Means clustering
