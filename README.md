@@ -6,9 +6,9 @@ Zhishang Chen (陈至上)
 
 Please contact me on Discord: Metastasiz#5310 or markjc3rd@gmail.com
 
-I'm interested in Robotics and Machine Learning, currently I have made only some simple AIs only.
+I'm interested in Robotics and Machine Learning, currently I have made only some simple ML models only.
 
-AI models and  some related stuff:
+Machine Learning models and related Algorithms:
 - Knn
 - Perceptron
 - K-Means clustering
