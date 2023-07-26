@@ -4,7 +4,7 @@ Thanondrak Arunsangsirinak (ธนนรักษ์ อรุณแสงสิ
 
 Zhishang Chen (陈至上)
 
-Please contact me on Discord: Metastasiz#5310 or markjc3rd@gmail.com
+Please contact me by contact.now.markchen@gmail.com or on Discord: Metastasiz#5310
 
 I'm interested in Robotics and Machine Learning, currently I have made only some simple ML models only.
 
