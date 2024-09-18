@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently developing and looking to collaborate on a machine learning model for data analysis and computer vision, including financial data analyst and computer vision like LiDAR SLAM.<br>I'm learning about LiDAR SLAM by myself, but the resources on this topic are quite difficult to find.<br><br>If you have seen my work that has not been uploaded here, please feel free to ask me!
+Hey, I'm Mark, Thanondrak Arunsangsirinak<br>I'm currently developing and looking to collaborate on a machine learning model for data analysis and computer vision, including financial data analyst and computer vision like LiDAR SLAM.<br>I'm learning about LiDAR SLAM by myself, but the resources on this topic are quite difficult to find.<br><br>If you have seen my work that has not been uploaded here, please feel free to ask me!
 
 
 ## 🌐 Socials:
